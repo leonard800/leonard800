@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I am a:
+I am an aspiring front end engineer:
 - 🌱 Adaptive learner
 - 👯 Team player
-- 💻 Web developer
+- 💻 Believer of user-first design principles
 
 I have over a year of learning experience as an intern, I have successfully delivered solutions to the challenges assigned to me. My work as a Web Developer involved optimizing website performance and enhancing user experience. Notably, I contributed to a 1000% increase in clicks and helped the SEO team achieve over 700,000 monthly site visits. I also worked closely with the product and marketing communication teams to implement two dedicated event pages, collaborating on feature implementations to create well-designed pages that significantly boosted user participation.
 
