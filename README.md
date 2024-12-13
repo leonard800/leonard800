@@ -9,6 +9,11 @@ I have over a year of learning experience as an intern, I have successfully deli
 
 Let's chase opportunities together, godspeed! 🚀
 
+## What I use 💻
+- Languages: Typescript, Javascript, Java, Python, Golang
+- Frameworks: React.js, Next.js, Flask
+- Databases: MySQL, MongoDB
+
 ## For additional information 💬
 
 - 📫 You can check my Linkedin [here](https://www.linkedin.com/in/leonard-abimanyu-233329194/)
